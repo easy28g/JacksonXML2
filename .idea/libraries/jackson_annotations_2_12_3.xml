@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.12.3">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jackson/jackson-annotations-2.12.3.jar!/" />
+      <root url="jar://C:/Program Files/Java/jackson/jackson-core-2.12.3.jar!/" />
+      <root url="jar://C:/Program Files/Java/jackson/jackson-databind-2.12.3.jar!/" />
+      <root url="jar://C:/Program Files/Java/jackson/jackson-dataformat-xml-2.12.3.jar!/" />
+      <root url="jar://C:/Program Files/Java/jackson/jackson-module-jaxb-annotations-2.12.3.jar!/" />
+      <root url="jar://C:/Program Files/Java/jackson/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://C:/Program Files/Java/jackson/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://C:/Program Files/Java/jackson/stax2-api-4.2.1.jar!/" />
+      <root url="jar://C:/Program Files/Java/jackson/woodstox-core-6.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
